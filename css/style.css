@@ -1,0 +1,160 @@
+#foot {
+	max-width: 1170px;
+	background: #EEB211;
+}
+#navLeft {
+	position: fixed;
+	max-width: 200px;
+}
+.darkHr {
+	border-color: gray;
+}
+.media-object {
+	max-height: 150px;
+	max-width: 150px;
+}
+.btn-default {
+	background-color: transparent;
+	color: #fff;
+	border: 1px solid white;
+	position: relative;
+}
+.btn-default:hover {
+		border: 1px solid #EEB211;
+		color: #EEB211;
+}
+.container-fluid {
+	padding: 0;
+}
+.desc {
+	position: relative;
+	right: -210px;
+	bottom: 80px;
+	color: white;
+}
+.glyphicon-star {
+	position: relative;
+	right: 110px;
+	top: 60px;
+	color: #EEB211;
+}
+.carousel-caption {
+	color: #BABABA;
+
+}
+.navbar-brand {
+	padding-top: 10px;
+}
+.btn, .form-control {
+	border-radius: 0;
+}
+#navRight {
+	margin-top: 10px;
+}
+* {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#content {
+	color: #BABABA;
+}
+p {
+	text-align: justify;
+}
+h3 {
+	text-align: left;
+	margin: 0;
+	font-size: 40px;
+	color: #EEB211;
+	text-shadow: 0 1px 2px rgba(0,0,0,.3);
+}
+h2 {
+	color: rgba(239, 239, 239, .7);
+}
+h1, h4 {
+	margin: 0px 0px 20px 0px;
+	text-align: left;
+	font-size: 50px;
+	color: #EEB211;
+}
+hr {
+	display: relative;
+	width: 100%;
+	border-color: white;
+	left: 0;
+}
+body.container {
+	padding: 0;
+	width: 80%;
+}
+.btn-primary {
+	/*background-image: -moz-linear-gradient(#337ab7,#265a88);*/
+	background: transparent;
+	/*border-radius: 10px;*/
+	border: 1px solid white;
+	/*transition: border .4s;*/
+}
+.btn-primary:focus {
+	background-color: transparent;
+	border: 1px solid white;
+}
+.btn-primary:hover {
+	background-color: transparent;
+	border: 1px solid #EEB211;
+	color: #EEB211;
+}
+.navbar-default{
+	border: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #EEB211;
+}
+.navbar-default {
+	background: #002A54;
+	height: 80px;
+	margin-bottom: 0;
+	border-radius: 0;
+}
+#image {
+	width: 150px;
+	height: 150px;
+	display: absolute;
+	border-radius: 310px;
+	border: 3px solid white;
+	z-index: 1;
+}
+#nextContent {
+
+}
+#nextRight {
+	color: #383838;
+	padding: 30px;
+	text-align: justify;
+}
+#nextLeft {
+	background: #EEB211;
+	padding: 150px;
+	text-align: center;
+	color: #F2F2F2;
+	height: 617.5px;
+	z-index: 0;
+}
+#usa {
+	margin: 0 0 0 130px;
+}
+#navRight {
+	width: 700px;
+}
+#cover {
+padding: 45px 0px 0px 0px;
+background: #646464;	
+}
+#right {
+	text-align: center;
+}
+#left {
+	color: #444444;
+	text-align: justify;
+	padding-left: 10%;
+	/*padding-left: 120px;*/
+}
